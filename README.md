@@ -11,7 +11,7 @@ At the moment there is:
 * Shooter mechanics
 * Mechanics of receiving and causing damage
 * Patrolling enemies
-* Mechanics of selecting items
+* Mechanics of picking up items
 * Inventory
 * Power-Ups and treatment
 
